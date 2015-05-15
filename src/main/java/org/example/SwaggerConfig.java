@@ -1,8 +1,5 @@
 package org.example;
 
-import static springfox.documentation.builders.PathSelectors.regex;
-
-import com.google.common.base.Predicate;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.context.request.async.DeferredResult;
